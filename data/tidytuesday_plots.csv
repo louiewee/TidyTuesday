@@ -1,3 +1,4 @@
-date,week,year,title,description,packages,image_path,data_source
-3/11/25,10,2025,Pixar Films,Analysis of Critical Reception,"ggplot2,tidyverse,ggtext,showtext",2025/03-11-2025/03-11-2025.png,https://github.com/rfordatascience/tidytuesday/blob/master/data/2025/2025-03-11/readme.md
-4/1/25,13,2025,Pokémon,Analysis of Pokémon Base Stats,"ggplot2,tidyverse,ggtext,showtext,scales",2025/04-01-2025/04-01-2025.png,https://github.com/rfordatascience/tidytuesday/blob/master/data/2025/2025-04-01/readme.md
+packages,image_path
+"ggplot2,tidyverse,ggtext,showtext",2025/04-01-2025/06-04-2024.png
+"ggplot2,tidyverse,ggtext,showtext,scales",2025/04-01-2025/04-01-2025.png
+"ggplot2,tidyverse,ggtext,showtext",2025/03-11-2025/03-11-2025.png
