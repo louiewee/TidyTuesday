@@ -110,7 +110,7 @@ print(p)
 This visualization reveals several key insights about Pixar's 25-year journey:
 
 - **Perfect Start**: Pixar's 1990s films (Toy Story trilogy) achieved near-perfect critical scores
-- **Consistent Excellence**: Most films (19 out of 23) score above 80% on Rotten Tomatoes
+- **Consistent Excellence**: Most films (18 out of 23) score above 80% on Rotten Tomatoes
 - **Notable Struggles**: Cars franchise consistently underperforms (Cars 2 at 40% being the lowest)
 - **Continued Innovation**: Recent films like Inside Out (98%) show Pixar can still achieve critical masterpieces
 - **Overall Assessment**: While showing more variation, Pixar maintains remarkable consistency over 25 years
