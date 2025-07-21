@@ -132,7 +132,7 @@ main_plot_with_labels <- main_plot +
   geom_text(aes(label = comma(n)), hjust = -0.1, size = 4, 
             color = "#2c3e50", family = "Inter", fontface = "bold")
 
-print(main_plot_with_labels)
+print(main_plot_with_labels)`
 
 **📈 Data Summary**
 
