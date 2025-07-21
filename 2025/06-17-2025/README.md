@@ -39,6 +39,7 @@ The significant gap between cloud computing and other categories demonstrates ho
 
 **📋 Code**
 
+```r
 `# TidyTuesday Week 24 2025: Web APIs
 # Data: APIs.guru API Directory
 # Visualization by: Louie Wee
@@ -62,7 +63,7 @@ api_logos <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytue
 api_origins <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2025/2025-06-17/api_origins.csv')
 apisguru_apis <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2025/2025-06-17/apisguru_apis.csv')`
 
-`# Data preparation
+# Data preparation
 top_categories <- api_categories %>%
   count(apisguru_category, sort = TRUE) %>%
   slice_head(n = 12) %>%
@@ -132,7 +133,9 @@ main_plot_with_labels <- main_plot +
   geom_text(aes(label = comma(n)), hjust = -0.1, size = 4, 
             color = "#2c3e50", family = "Inter", fontface = "bold")
 
-print(main_plot_with_labels)`
+print(main_plot_with_labels)
+
+```
 
 **📈 Data Summary**
 
