@@ -1,4 +1,4 @@
-2025-08-12: Climate Attribution Studies
+# 2025-08-12: Climate Attribution Studies
 
 **Created:** August 15, 2025
 
